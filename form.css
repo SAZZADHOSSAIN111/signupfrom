@@ -22,7 +22,6 @@ body{
     border-radius: 10px;
 }
 
-
 input[type=text],
 input[type=password],
 input[type=email]{
@@ -31,7 +30,7 @@ input[type=email]{
     position: absolute;
     border: none;
     width: 90%;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(58, 231, 159);
 }
 
 label{
@@ -60,8 +59,6 @@ h1{
     margin: auto;
     margin-bottom: 30px;
 }
-
-    
 
 .button{
     background-color: rgb(58, 231, 159);
