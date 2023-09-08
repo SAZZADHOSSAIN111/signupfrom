@@ -25,12 +25,14 @@ body{
 input[type=text],
 input[type=password],
 input[type=email]{
-    width: auto;
+    /* width: auto; */
     height: 40px;
     position: absolute;
     border: none;
     width: 90%;
     border-bottom: 2px solid rgb(58, 231, 159);
+    /* display: grid; */
+    margin-bottom: 100px;
 }
 
 label{
@@ -40,6 +42,7 @@ label{
 }
 .inputs{
     margin-left: 10px;
+    
 }
 
 h1{
